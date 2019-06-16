@@ -1,6 +1,6 @@
 {
   "name": "@blakeembrey/base64url",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Base64 URL for node.js buffers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
